@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601989580261' stop='1601989606191'>
+    <name>Synchronization Suite</name>
+    <title>Synchronization Suite</title>
+    <test-cases>
+        <test-case start='1601989580262' status='passed' stop='1601989592343'>
+            <name>"before all" hook for "Verify orange hrm login"</name>
+            <title>"before all" hook for "Verify orange hrm login"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-9'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-85.0.4183.121'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1601989592345' status='passed' stop='1601989606187'>
+            <name>Verify orange hrm login</name>
+            <title>Verify orange hrm login</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-9'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-85.0.4183.121'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

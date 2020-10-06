@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601989266295' stop='1601989296760'>
+    <name>Capture Text Suite</name>
+    <title>Capture Text Suite</title>
+    <test-cases>
+        <test-case start='1601989266296' status='passed' stop='1601989296755'>
+            <name>Verify Get Text Using Findelements</name>
+            <title>Verify Get Text Using Findelements</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-85.0.4183.121'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

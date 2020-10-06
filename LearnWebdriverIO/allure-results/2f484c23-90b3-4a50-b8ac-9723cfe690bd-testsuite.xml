@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601989613348' stop='1601989643906'>
+    <name>Web Element States Suite</name>
+    <title>Web Element States Suite</title>
+    <test-cases>
+        <test-case start='1601989613349' status='passed' stop='1601989643899'>
+            <name>Verify Different Element States</name>
+            <title>Verify Different Element States</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-10'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-85.0.4183.121'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

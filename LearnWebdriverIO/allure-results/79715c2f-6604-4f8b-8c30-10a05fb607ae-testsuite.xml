@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601989510539' stop='1601989537519'>
+    <name>Orange HRM Suite</name>
+    <title>Orange HRM Suite</title>
+    <test-cases>
+        <test-case start='1601989510540' status='passed' stop='1601989537514'>
+            <name>Verify Orange HRM Login</name>
+            <title>Verify Orange HRM Login</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-85.0.4183.121'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

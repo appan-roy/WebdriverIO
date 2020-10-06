@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601989344839' stop='1601989410484'>
+    <name>Data Driven Suite</name>
+    <title>Data Driven Suite</title>
+    <test-cases>
+        <test-case start='1601989344840' status='passed' stop='1601989355942'>
+            <name>"before all" hook for "Validate appointment booking in CURA Healthcare"</name>
+            <title>"before all" hook for "Validate appointment booking in CURA Healthcare"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-4'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-85.0.4183.121'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1601989355943' status='passed' stop='1601989410478'>
+            <name>Validate appointment booking in CURA Healthcare</name>
+            <title>Validate appointment booking in CURA Healthcare</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-4'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-85.0.4183.121'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

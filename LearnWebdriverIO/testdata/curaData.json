@@ -1,0 +1,6 @@
+{
+    "facility": ["Tokyo", "Hongkong", "Seoul"],
+    "hospital": ["Yes", "No", "Yes"],
+    "healthProgram": ["Medicare", "Medicaid", "None"],
+    "visitDate": ["06/10/2020", "07/10/2020", "08/10/2020"]
+}
